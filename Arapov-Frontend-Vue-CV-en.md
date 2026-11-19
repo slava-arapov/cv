@@ -28,17 +28,15 @@ I've been developing web applications since 2014, including educational platform
 
 Apr 2023 — Present
 
-42 builds products for education, healthcare, and government. On a team of 10, I build educational web apps from requirements and design through integration and deployment. I lead frontend development for the Lab Workbook Builder.
+42 builds products for education, healthcare, and government. On a team of 10, I build educational web apps from requirements and design through integration and deployment.
 
 #### Lab Workbook Builder
 
 Vue 3, TypeScript, Pinia, Vite, Element Plus, Vitest, Storybook
 
-Frontend technical lead on a team of three frontend developers.
+I lead a three-person frontend team. We build an application where content editors create and translate lab exercises and students complete interactive tasks.
 
-A tool for creating and localizing lab exercises, managing content, and completing interactive tasks.
-
-- Designed the frontend architecture, independently built most of the tool and its user workflows, and evolved the architecture as requirements became clearer.
+- Designed the frontend architecture and independently built most of the authoring tool. Implemented version comparison and translation editing, and made it easier to add new task types.
 - Coordinated two frontend developers, assigned tasks, reviewed code, made technical decisions, and verified their work.
 - Refined the specification and business requirements with the analyst and agreed on the API with the backend developer. Analyzed the legacy backend and existing admin panel to integrate with both.
 - Introduced architecture decision records (ADRs) and added unit tests to the project.
