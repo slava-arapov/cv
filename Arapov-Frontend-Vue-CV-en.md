@@ -1,6 +1,6 @@
 # Slava Arapov
 
-Senior frontend developer
+Senior Frontend Developer · Vue.js / TypeScript
 
 ![Photo of Slava Arapov](photo.png)
 
@@ -11,86 +11,103 @@ Senior frontend developer
 - Website: [arapov.net](https://arapov.net/)
 - GitHub: [slava-arapov](https://github.com/slava-arapov)
 
+I've been developing web applications since 2014, including educational platforms, authoring tools, and editors. I design frontend architecture, coordinate developers, and help define requirements and APIs.
+
 ## Skills
 
-- JavaScript, TypeScript, Vue.js, Nuxt, Pinia, Vuex
-- Vite, Webpack, ESLint, Jest, Vitest, VuePress
-- Element Plus, Vuetify, BootstrapVue
-- English (upper intermediate)
+- **Languages and frameworks:** JavaScript, TypeScript, Vue.js, Nuxt
+- **State management and UI:** Pinia, Vuex, Element Plus, Vuetify, BootstrapVue
+- **Tooling and testing:** Vite, Webpack, ESLint, Jest, Vitest, Storybook, VuePress
+- **Web development:** REST API, WebSocket, i18n, Git, GitFlow, CI/CD, responsive and cross-browser layouts, Figma
+- **Practices:** Agile, Scrum, code review, requirements, refactoring, optimization, deployment
+- **English:** Upper intermediate
 
-## Work Experience
+## Work Experience and Projects
 
 ### Senior Web Application Developer, 42 LLC
 
 Apr 2023 — Present
 
-The company develops products for education, healthcare, and government institutions. I design, develop, and maintain web applications for schools as part of a 10-person team. I am involved in requirements analysis, system design, and deployment. I build responsive, cross-browser layouts based on Figma designs, perform refactoring and performance optimization, and participate in RESTful API integration. The team follows Agile and Scrum practices, uses GitFlow, and conducts cross-code reviews.
+42 builds products for education, healthcare, and government. On a team of 10, I build educational web apps from requirements and design through integration and deployment. I lead frontend development for the Lab Workbook Builder.
+
+#### Lab Workbook Builder
+
+Vue 3, TypeScript, Pinia, Vite, Element Plus, Vitest, Storybook
+
+Frontend technical lead on a team of three frontend developers.
+
+A tool for creating and localizing lab exercises, managing content, and completing interactive tasks.
+
+- Designed the frontend architecture, independently built most of the tool and its user workflows, and evolved the architecture as requirements became clearer.
+- Coordinated two frontend developers, assigned tasks, reviewed code, made technical decisions, and verified their work.
+- Refined the specification and business requirements with the analyst and agreed on the API with the backend developer. Analyzed the legacy backend and existing admin panel to integrate with both.
+- Introduced architecture decision records (ADRs) and added unit tests to the project.
+- Used AI agents for development and code review. Documented the project and its business logic to support new practices.
 
 #### VR-Labs Virtual Laboratory Store
 
 Vue.js, Element Plus, Pinia, Vue-i18n, Husky
 
-An e-commerce platform for the company's products, including dashboards for clients, marketers, and administrators.
+A store for the company's products serving organizations and individual customers. The company has regional representatives in 16 countries.
 
-I developed online stores for corporate clients and individual customers, personal accounts, admin panels, and tools for marketers. I participated in requirements definition, implemented localization and internationalization for 10 languages including RTL, adapted the interface for mobile devices, and aligned the project with corporate standards using linters.
+- Built the storefront, customer accounts, and admin interfaces, including marketing tools.
+- Worked on internationalization for 10 languages, including right-to-left (RTL) languages.
+- Adapted interfaces for mobile devices and helped refine requirements.
+- Used linting to bring the project in line with company coding standards.
 
 #### Interactive Digital Textbook
 
 Vue 2, Nuxt 2, BootstrapVue, Vuex, Webpack, SSO, TinyMCE
 
-A constructor for creating digital equivalents of printed textbooks of any structure and complexity while preserving layout. This project is one of the services of the Moscow Electronic School.
+A tool used by the Moscow Electronic School (MES) to create digital versions of printed books of any structure or complexity while preserving their layouts.
 
-I developed the book reader interface, including pages, navigation, search, an audio player, notes, and bookmarks. I integrated the application with the electronic gradebook and other MES services, implemented embedding of interactive assessment tasks into textbook pages, and developed plugins for the page editor supporting text, graphics, audio, video, and 3D models.
+- Developed the reader interface, including pages, navigation, search, an audio player, notes, and bookmarks.
+- Integrated the textbook with the electronic school diary and other MES services, and enabled interactive assessments to be embedded in textbook pages.
+- Developed page editor plugins for text, graphics, audio, video, and 3D models.
 
 #### “Visual Formula Editor” JavaScript Library
 
 TypeScript, SVG, Nx monorepo
 
-A library for creating and editing mathematical formulas with export to SVG images and LaTeX code.
+A library for creating and editing mathematical formulas with SVG and LaTeX export. Used by MES, it is an enhanced alternative to Wiris MathType tailored to the Russian market.
 
-It is an advanced, Russia-localized alternative to Wiris MathType. I participated in requirements analysis, worked on multiple groups of symbols and operators, implemented input of complex formula structures, improved typography, and ensured compliance with LaTeX standards.
-
-#### “PhysBattle” Intellectual Game Platform
-
-Vue.js, Pinia, Vite, WebSocket, Centrifuge
-
-PhysBattle is an online, game-based physics tournament platform for school students, used by team captains and members, moderators, and jury members.
-
-I extended and maintained a reusable component library published to the NPM Registry and implemented reliable WebSocket communication with more than 50 events, enabling real-time notifications and instant UI updates without delays.
+- Helped define requirements for the editor.
+- Developed groups of symbols and operators, implemented input for complex formula structures, and improved typography.
+- Aligned formula representation with LaTeX standards.
 
 ### Web Developer, Voronezh State Technical University
 
 Apr 2017 — Mar 2023
 
-VSTU is one of the leading engineering and technical universities in Russia with 20,000+ students and 2,500+ employees.
+VSTU is an engineering and technology university with 20,000+ students and 2,500+ employees.
 
-- Participated in the creation, development, redesign of [official university website](https://cchgeu.ru/). Implemented 50+ complex components, implemented 6 languages, organized 15 subsites.
-- Managed the proprietary personal account website improvement, upgrade, deployment. Participated in integration with university management information system, adapted to the university's business processes. The service is used by approx. 15,000 entrants and students.
-- Developed the “Active Directory Tools” service (Vue 3, Element Plus, Laravel, Keycloak SSO) for searching and creating accounts, managing passwords and groups of AD/LDAP users and computers.
+- Built 50+ complex components, added 6 languages, and set up 15 subsites for the [university website](https://cchgeu.ru/) on 1C-Bitrix. Helped redesign the site.
+- Adapted the account portal built with Yii and Vue to the university's workflows and contributed to its integration with 1C.
+- Built Active Directory Tools (Vue 3, Element Plus, Laravel, Keycloak SSO) to find and create accounts, manage passwords, and manage AD/LDAP user and computer groups.
 
-### Full-stack Developer, Contract Work
+### Full-Stack Developer, Independent Contractor
 
 Jul 2014 — Jul 2022
 
-Developed websites and web applications from scratch, by myself and in team. Wrote detailed technical specifications and instructions, estimated costs, conducted system integration, trained groups of up to 20 employees. Project examples:
+Built websites and web apps independently and in teams. Wrote specs, estimates, and guides, deployed systems, set up CI/CD, and trained staff. Selected projects built from scratch follow.
 
-#### CRM system for “Resonance” sports school
+#### CRM for Resonance Sports School
 
 Vue.js 2, Vuex, Bootstrap, Leaflet API, Yii2
 
-Developed CRM with a trial lesson registration wizard, client, payment, schedule, and attendance management. Implemented the documents and reports generation. Automated work of 20+ coaches, 70+ teams, administrators, and management.
+Built a CRM to manage clients, payments, schedules, and attendance. Automated workflows for 20+ coaches, 70 teams, and school administrators.
 
-#### Treelink IT Solutions for schools
+#### Treelink IT Solutions for Schools
 
 Vue.js, SVG, QR, Webpack, Laravel, Docker
 
-Automated the production of interactive smart stands and photo albums with “time capsules” for 120 schools in 3 countries. Implemented stand and photo album content management, typography layouts generation and export.
+Built a content management service for interactive displays and photo albums used by 120 schools in Russia, Kazakhstan, and Kyrgyzstan. Added print-ready layout export with QR codes, which sped up production.
 
 #### “My Jinn” Wish Fulfillment Social Network
 
-Yii2, Open Graph, D3.js, Telegram Bot API, SMS Aero API
+Yii2, Open Graph, D3.js
 
-Designed and built a social network in which users can create public wish lists and grant each other's wishes. Users can follow each other, communicate, share wishes and opportunities, grant wishes, and publish reports with photos. The project has over 8,000 members, 20,000 wishes, and 600 reports.
+Built a wish fulfillment social network for 8,000+ members with Telegram Bot, QIWI, and SMS Aero integrations.
 
 ## Education
 
