@@ -46,10 +46,10 @@ I lead a three-person frontend team. We build an application where content edito
 
 Vue.js, Element Plus, Pinia, Vue-i18n, Husky
 
-A store for the company's products serving organizations and individual customers. The company has regional representatives in 16 countries.
+An online store serving organizations and individual customers.
 
 - Built the storefront, customer accounts, and admin interfaces, including marketing tools.
-- Worked on internationalization for 10 languages, including right-to-left (RTL) languages.
+- Improved localization for a portal supporting 10 languages, including right-to-left (RTL) languages. Implemented language-specific URLs and switching without a page reload on the landing site.
 - Adapted interfaces for mobile devices and helped refine requirements.
 - Used linting to bring the project in line with company coding standards.
 
@@ -57,7 +57,7 @@ A store for the company's products serving organizations and individual customer
 
 Vue 2, Nuxt 2, BootstrapVue, Vuex, Webpack, SSO, TinyMCE
 
-A tool used by the Moscow Electronic School (MES) to create digital versions of printed books of any structure or complexity while preserving their layouts.
+At the Moscow Electronic School (MES), editors create digital textbooks that preserve the print layout, and students read them and complete embedded assignments.
 
 - Developed the reader interface, including pages, navigation, search, an audio player, notes, and bookmarks.
 - Integrated the textbook with the electronic school diary and other MES services, and enabled interactive assessments to be embedded in textbook pages.
@@ -79,9 +79,9 @@ Apr 2017 — Mar 2023
 
 VSTU is an engineering and technology university with 20,000+ students and 2,500+ employees.
 
+- Built Active Directory Tools (Vue 3, Element Plus, Laravel, Keycloak SSO) to find and create accounts, manage passwords, and manage AD/LDAP user and computer groups.
 - Built 50+ complex components, added 6 languages, and set up 15 subsites for the [university website](https://cchgeu.ru/) on 1C-Bitrix. Helped redesign the site.
 - Adapted the account portal built with Yii and Vue to the university's workflows and contributed to its integration with 1C.
-- Built Active Directory Tools (Vue 3, Element Plus, Laravel, Keycloak SSO) to find and create accounts, manage passwords, and manage AD/LDAP user and computer groups.
 
 ### Full-Stack Developer, Independent Contractor
 
